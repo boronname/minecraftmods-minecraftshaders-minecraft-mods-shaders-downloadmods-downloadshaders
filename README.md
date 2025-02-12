@@ -72,7 +72,7 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 > This document is RD Shader List 2.0.  
 > If you want to view the old document, please refer to version 1.0.
 
-- [RenderDragon Shader List **1.0**](/1.0/README.md)
+- [RenderDragon Shader List **1.0**](https://shorturl.at/5aM9e)
   - [What are the differences between 2.0 and 1.0?](/docs/about2.0.md)
 
 <br>
