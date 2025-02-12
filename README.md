@@ -1,3 +1,4 @@
+![](/images/banner.png)
 <div align="center">
   <h1>Minecraft Shaders Pack </h1>
 
@@ -10,7 +11,6 @@
 </div>
 
 ---
-![](/images/banner.png)
 
 <!--
 > [!WARNING]
